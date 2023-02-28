@@ -7,4 +7,4 @@ const capitalize = (text) => {
   return `${firstSymbol.toUpperCase()}${restSymbols.join('')}`;
 };
 
-export default capitalize
+export default capitalize;
